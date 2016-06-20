@@ -1,0 +1,5 @@
+Program: All
+Release Version: 10.0.0-beta
+Build: 1
+Package Name: Wi-Fi_Test_Suite
+Date/Time Created: Jun-20-2016__14-30-30
