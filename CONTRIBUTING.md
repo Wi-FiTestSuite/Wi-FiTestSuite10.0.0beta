@@ -35,7 +35,9 @@ We recommend the following process when contributing code to the Wi-Fi Test Suit
 
 4.2. Commits Should Be Granular
 
-	You should keep each commit as granular as possible. For instance, do not check in 2 bug fixes in one commit -- separate them out into 2 commits. A big change must be split into multiple commits as a small feature.
+	You should keep each commit as granular as possible. 
+	For instance, do not check in 2 bug fixes in one commit -- separate them out into 2 commits.
+	A big change must be split into multiple commits as a small feature.
 
 4.3. Coding Style
 
