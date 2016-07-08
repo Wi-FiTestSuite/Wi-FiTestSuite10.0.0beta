@@ -14,12 +14,12 @@ Wi-FiTestSuite 10.0.0-beta can be downloaded through the [open source repository
 Wi-FiTestSuite requires [python version 2.7](https://www.python.org/download/releases/2.7/) to be installed.
 
 ## License
-Please refer to [LICENSE.txt](https://github.com/Wi-FiTestSuite/Wi-FiTestSuite/blob/master/LICENSE.txt).
+Please refer to [LICENSE.txt](https://github.com/Wi-FiTestSuite/Wi-FiTestSuite10.0.0beta/blob/master/LICENSE.txt).
 
 ## Documentation
-[docs/BuildGuide.md]()
+[Under preparation]()
 
 ## Issues and Contribution Guidelines
 Please submit issues/ideas to [Wi-Fi Test Suite Google Group](https://groups.google.com/d/forum/wi-fitestsuite).
 Both Wi-Fi Alliance members and non-members can contribute to the Wi-Fi Test Suite open source project. Please review the contribution agreement prior to submitting a pull request.
-Please read more on contributions in [CONTRIBUTING.md](https://github.com/Wi-FiTestSuite/Wi-FiTestSuite/blob/master/CONTRIBUTING.md).
+Please read more on contributions in [CONTRIBUTING.md](https://github.com/Wi-FiTestSuite/Wi-FiTestSuite10.0.0beta/blob/master/CONTRIBUTING.md).
